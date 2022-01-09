@@ -1,0 +1,33 @@
+.container{
+    margin-top:10%;
+}
+
+.columns{
+    width:100%;
+    height:20rem;
+}
+
+.field{
+    margin-top:30px;
+}
+
+.pending{
+    color:gray;
+}
+
+.correct{
+    color : green;
+}
+
+.incorrect{
+    color : red;
+    font-weight: bold;
+}
+
+.abc{
+    margin-top:40px;
+}
+
+.success{
+    color : green;
+}
